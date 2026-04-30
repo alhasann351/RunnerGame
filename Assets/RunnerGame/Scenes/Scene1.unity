@@ -119,63 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &912382213
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 21.15
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6433585727693662299, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_Name
-      value: paved_road_markings_straight_area_1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
 --- !u!1 &1114635928
 GameObject:
   m_ObjectHideFlags: 0
@@ -263,7 +206,7 @@ Transform:
   m_GameObject: {fileID: 1114635928}
   serializedVersion: 2
   m_LocalRotation: {x: 0.22975281, y: -0, z: -0, w: 0.973249}
-  m_LocalPosition: {x: 1.3135991, y: 9.227429, z: -32.70402}
+  m_LocalPosition: {x: 0.00000023841858, y: 12.859821, z: -6.7600784}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -313,63 +256,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!1001 &1740578176
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 11.015579
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5909673296382948065, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6433585727693662299, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
-      propertyPath: m_Name
-      value: paved_road_markings_straight_area_1 (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c1ab8c3be02396b45845f0e8d2db80bc, type: 3}
 --- !u!1 &2067687549
 GameObject:
   m_ObjectHideFlags: 0
@@ -503,5 +389,3 @@ SceneRoots:
   m_Roots:
   - {fileID: 1114635931}
   - {fileID: 2067687551}
-  - {fileID: 912382213}
-  - {fileID: 1740578176}
